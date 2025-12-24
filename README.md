@@ -120,6 +120,10 @@ The model exhibits **high precision but moderate recall**, reflecting a conserva
 
 ## Precision–Recall Analysis
 A Precision–Recall curve was generated on the scaffold-held-out test set to visualize model behavior across decision thresholds. The curve highlights the expected trade-off between sensitivity and false positives and supports informed threshold selection depending on the intended screening use case.
+### Precision–Recall Curve (Test Set)
+
+![Precision–Recall Curve](results/pr_auc_curve.png)
+
 
 ---
 
